@@ -1,0 +1,25 @@
+.header {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    height: 90px;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+}
+
+.header_navigation {
+    padding: 16px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    font-size: 14px;
+    justify-content: flex-end;
+    font-weight: 500;
+}
+
+.header_navigation a {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
