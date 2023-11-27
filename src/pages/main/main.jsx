@@ -1,9 +1,7 @@
 import React from 'react';
 
 import './main.css';
-import {Card, CardComponent} from "../../components/card/card";
-import TimeToLeaveIcon from '@mui/icons-material/TimeToLeave';
-import DirectionsBikeIcon from '@mui/icons-material/DirectionsBike';
+import { CardComponent } from "../../components/card/card";
 import NewspaperIcon from '@mui/icons-material/Newspaper';
 
 const DEFAULT_CLASSNAME = 'main';
